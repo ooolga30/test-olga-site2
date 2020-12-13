@@ -1,0 +1,52 @@
+body{background-color:#F0FFFF;}
+header{color:#8b008b; font-family:cursive; font-size:135%;}
+nav{text-align:center;}
+a{text-decoration:none; font-size:105%}
+.section{width:60%; margin: 40px 15px; padding:1px 15px; background-color:#FfFFFF;
+  color:#000080; text-align:justify; font-family:cursive; font-size:150%; border: 5px dotted #00ABB2;}
+#opis{width:60%; margin:40px 10px; text-align:center; color:#000080; font-family:cursive; font-size:170%;}
+.section1{width:60%; margin:40px 10px; font-family:times; font-size:130%; line-height:2;}
+.section2{width:98%; margin:40px 10px; line-height:2;}
+.td_class{color:#000080; text-align:center; font-style:italic;}
+.button{text-decoration:none; outline:none; display:inline-block; padding:10px 30px;
+   margin:10px 10px; border:1px solid #00ABB2; border-radius:30px;
+   background-image:linear-gradient(45deg, #F0FFFF 0%, #F0FFFF 50%, #B0E0E6 100%);
+   background-position:100% 0; background-size:200% 200%; font-family:Comic Sans MS;
+   font-size:130%; font-weight:300; color:#000080;
+   box-shadow:0 16px 32px 0 rgba(0,40,120,.35); transition:.5s;}
+.aside{width:33%; margin:10px 2px; float:right;}
+.interes {text-align:center; font-size:200%;
+   font-family:cursive; font-style:bold; color:#822EAF;
+   border:3px solid #822EAF; border-radius: 10px; background-color:#FFFFFF;}
+table{text-align:justify; font-size:150%; font-family:cursive;}
+footer{text-align:left; color:#000080; font-family:times; font-size:120%;}
+.p1{width:60%; text-align:center; font-size:250%; font-family:cursive; color:#00ABB2; margin:40px 20px;}
+.p2{width:60%; margin:40px 15px; padding:10px 15px; background-color:#FFFFFF;
+  color:#000080; text-align:justify; font-family:cursive; font-size:170%; border:5px dotted #00ABB2;}
+.button01{text-decoration:none; outline:none; display:inline-block; padding:5px 15px;
+   margin:7px 10px; border:2px solid #D8BFD8; border-radius: 10px;background-color:#FfFFFF; color:#000080;
+   background-position:100% 0; background-size:200% 200%;font-family:Times;
+   font-size:120%; font-weight:300; font-style:italic;}
+.div01{width: 50%; margin:10px 100px; padding:10px 10px; text-align:center; border:10px double #D8BFD8;
+  background-color:#FFFFFF;}
+.section01{width:60%; margin:42px 10px; padding:1px 1px; text-align:center; border:15px double #B0E0E6;
+  background-color:#FFFFFF; border-radius:10px}
+h1{text-align:center; font-size:200%;
+   font-family:cursive; color:#00ABB2; margin:40px 100px; padding:10px 15px;
+   border:5px dotted #B0E0E6;}
+h2{text-align:left; font-family:Times; font-style: italic; color:#000080; margin:10px 20px;}
+.p01{text-align:center; margin:0px 40px; font-size:150%; font-family:cursive;}
+.section03{width:40%; margin:1px 350px; padding:1px 1px; border:15px double #B0E0E6;
+  background-color:#FFFFFF; border-radius:10px; font-size: 150%;}
+.p03{width:40%; text-align:center; font-size:250%; font-family:cursive; color:#00ABB2; margin:30px 370px;}
+.section04{width:30%; margin:50px 50px;}
+.aside04{width:60%; float:right; margin:20px 40px; padding:10px 20px; font-size:150%; font-family:cursive; text-align:center;}
+.p04{text-align:center; font-size:100%;
+   font-family:cursive; color:#00ABB2; margin:40px 100px; padding:5px 5px;
+   border:5px dotted #B0E0E6; font-size:120%;}
+.p0401{text-align:left; font-family:Times; font-style:italic; color:#000080; margin:10px 20px;}
+.div04{width: 70%; text-align:center; margin:30px 100px; font-family:cursive; border:15px double #B0E0E6;
+  background-color:#FfFFFF; border-radius:10px;}
+.p0402{text-align:center; margin:10px 20px; font-family:cursive; font-size:80%;}
+.section02{width:70%; margin:1px 170px; padding:10px 10px; border:15px double #B0E0E6;
+  background-color:#FFFFFF; border-radius:10px; font-size:150%; line-height:1,5;}
